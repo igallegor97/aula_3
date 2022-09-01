@@ -1,2 +1,3 @@
 Ejercicio para la clase 3
-
+Editando desde GitHub
+Cómo clonar un repositorio remoto en mi directorio local
