@@ -1,2 +1,2 @@
-# clase_3
+# aula_3
 Ejercicio de la clase 3
